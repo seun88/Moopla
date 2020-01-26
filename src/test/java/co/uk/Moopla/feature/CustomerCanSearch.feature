@@ -12,4 +12,4 @@ Feature: House Search
     Examples:
     |Location|MinPrice|MaxPrice|
     |Manchester|£100000|£200000|
-    |London    |£250000|£400000|
+    |London    |£150000|£400000|
